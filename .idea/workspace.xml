@@ -8,127 +8,9 @@
     <cargoProject FILE="$PROJECT_DIR$/subpages/vault/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52faf7ed-c26b-4ff9-9fbf-581c2a9ea7ec" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ding.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/w1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secret.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/calculator/calc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/calculator/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/calculator/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/old.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/page/age_check.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/page/game.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/page/special/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/page/special/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/page/special/extra_special.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/page/special/pkg/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/page/special/pkg/special.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/page/special/pkg/special.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/page/special/pkg/special_bg.wasm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/page/special/pkg/special_bg.wasm.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/page/special/special.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/page/special/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/pictures/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/pictures/background2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/pictures/background3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/pictures/cool_background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/pictures/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/pictures/food/bbq.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/pictures/food/salad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/pictures/food/sandwich.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/pictures/popup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/pictures/waifus/aqua.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/pictures/waifus/megumin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/pictures/waifus/random_girl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/pictures/waifus/rias.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/pictures/waifus/rindo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/pictures/waifus/zero_two.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/script/age_check.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/script/extra_special.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/script/game.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/script/special.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/script/startpage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/style/age_check/age_check_style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/style/age_check/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/style/age_check/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/style/game/BeyondWonderland.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/style/game/gameStyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/style/game/gameStyle.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/style/game/gameStyle.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/style/special/GustatoryDelightRegular-rgX3L.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/style/special/special.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/style/startpage/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/style/startpage/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/style/startpage/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/videos/mental_breakdown.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/videos/vt.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/old_version/static/videos/vt.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/Eventhandlers/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/Eventhandlers/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/autos/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/autos/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/form_hell/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/form_hell/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/legendary2-9/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/legendary2-9/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/legendary2-9/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/max_ist_tot/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/max_ist_tot/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/spaceship/raumschiff.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/spaceship/raumschiff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/spaceship/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/theCursedPictures/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/theCursedPictures/pictures/monika_b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/theCursedPictures/pictures/monika_t.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/theCursedPictures/pictures/natsuki_b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/theCursedPictures/pictures/natsuki_t.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/theCursedPictures/pictures/sayori_b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/theCursedPictures/pictures/sayori_t.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/theCursedPictures/pictures/yuri_b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/theCursedPictures/pictures/yuri_t.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/theCursedPictures/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/schoolwork/theCursedPictures/test.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/smash_or_pass/chars/big_tiddies.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/smash_or_pass/chars/catgirl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/smash_or_pass/chars/femboy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/smash_or_pass/chars/furry.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/smash_or_pass/chars/girl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/smash_or_pass/chars/loli.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/smash_or_pass/chars/mashiro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/smash_or_pass/chars/pokemon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/smash_or_pass/chars/pokemon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/smash_or_pass/chars/thanks.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/smash_or_pass/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/smash_or_pass/sop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/smash_or_pass/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/test/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/vault/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/vault/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/vault/pictures/vault.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/vault/pictures/vault_open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/vault/pkg/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/vault/pkg/vault.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/vault/pkg/vault.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/vault/pkg/vault_bg.wasm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/vault/pkg/vault_bg.wasm.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/vault/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/vault/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/vault/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/vault/vault.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/waltuh/waltuh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/weather/pictures/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/weather/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/weather/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subpages/weather/weather.html" afterDir="false" />
+    <list default="true" id="52faf7ed-c26b-4ff9-9fbf-581c2a9ea7ec" name="Changes" comment="moves things">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,8 +64,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\programming\web\new_page\subpages\waltuh" />
       <recent name="F:\programming\web\new_page" />
+      <recent name="F:\programming\web\new_page\subpages\waltuh" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.calc.html">
@@ -222,7 +104,7 @@
       <workItem from="1678796312135" duration="11783000" />
       <workItem from="1678808917941" duration="294000" />
       <workItem from="1678809227908" duration="248000" />
-      <workItem from="1678809490280" duration="546000" />
+      <workItem from="1678809490280" duration="1120000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1678810025218</created>
@@ -231,7 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678810025218</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="moves things">
+      <created>1678810176782</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678810176782</updated>
+    </task>
+    <task id="LOCAL-00003" summary="moves things">
+      <created>1678810329604</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678810329604</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,7 +138,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -255,6 +163,7 @@
       <path value="$PROJECT_DIR$/subpages/vault" />
     </ignored-roots>
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="moves things" />
+    <option name="LAST_COMMIT_MESSAGE" value="moves things" />
   </component>
 </project>

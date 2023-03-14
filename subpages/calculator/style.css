@@ -1,0 +1,27 @@
+#calculator {
+    position: absolute;
+    border: thin solid black;
+    background-color: blueviolet;
+    width: 99%;
+    height: 98%;
+}
+
+#calculator .l4 {
+    width: 24.7%;
+    height: 13%;
+    margin-top: 1%;
+}
+
+
+#calculator .l3 {
+    width: 33%;
+    height: 13%;
+    margin-top: 1%;
+}
+
+#calculator #calculation {
+    width: 99%;
+    height: 13%;
+    margin-top: 1%;
+    text-align: center;
+}

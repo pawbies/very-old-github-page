@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>10a</title>
+    <meta name="author" content="Alexander Fuchs">
+</head>
+<body>
+    <form action="" method="post" id="formular">
+        <label for="nachname">Nachname:</label>
+        <input type="text" name="nachname" id="nachname" required>
+
+        <label for="groesse">Größe:</label>
+        <input type="number" name="groesse" id="groesse" min="0" max="300" required>
+
+        <br>
+
+        <label for="vorname">Vorname:</label>
+        <input type="text" name="vorname" id="vorname" required>
+
+        <label for="gewicht">Gewicht:</label>
+        <input type="number" name="gewicht" id="gewicht" min="0" max="300" required>
+
+        <br>
+
+        <label for="ort">Ort:</label>
+        <input type="text" name="ort" id="ort" required>
+
+        <label for="alter">Alter:</label>
+        <input type="number" name="alter" id="alter" min="0" max="300" required>
+
+        <br>
+
+        <label for="plz">PLZ:</label>
+        <input type="text" name="plz" id="plz" required>
+
+        <br>
+
+
+        <input type="submit" value="Senden" id="senden">
+    </form>
+
+    <div id="meldung"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>

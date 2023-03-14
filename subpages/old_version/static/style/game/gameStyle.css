@@ -1,0 +1,38 @@
+@font-face {
+  font-family: BeyondWonderland;
+  src: url(BeyondWonderland.ttf);
+}
+html body {
+  background: black;
+  color: white;
+  font-family: BeyondWonderland, serif;
+}
+html body h1 {
+  text-align: center;
+  color: gray;
+  font-family: Impact, serif;
+}
+html body main {
+  border: thin solid white;
+  width: 100vh;
+  height: 50vh;
+  margin: 0 auto;
+}
+html body footer {
+  align-content: center;
+  position: fixed;
+  bottom: 1%;
+  width: 100%;
+  white-space: nowrap;
+}
+html body footer #input {
+  width: 83%;
+  background-color: red;
+  border: thin grey solid;
+  text-align: center;
+}
+html body footer #next {
+  width: 15%;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,17 @@
+#char {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    display: flex;
+}
+
+#char img {
+    width: 50%;
+}
+
+#char .butt {
+    position: relative;
+    height: 2em;
+    flex: 1;
+}

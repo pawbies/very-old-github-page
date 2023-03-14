@@ -1,0 +1,16 @@
+body {
+  position: relative;
+  background-image: url(../../pictures/background2.jpg);
+  background-size: cover;
+  color: white;
+}
+body h1 {
+  text-align: center;
+  color: red;
+}
+body main {
+  width: 40%;
+  margin: auto;
+}
+
+/*# sourceMappingURL=style.css.map */

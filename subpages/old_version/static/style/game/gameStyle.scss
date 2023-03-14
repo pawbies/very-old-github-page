@@ -1,0 +1,48 @@
+$background: black;
+$button_color: red;
+$welcome_text_color: gray;
+$text_color: white;
+$text_font: BeyondWonderland;
+
+@font-face {
+    font-family: BeyondWonderland;
+    src: url(BeyondWonderland.ttf);
+}
+
+html body {
+    background: $background;
+    color: white;
+    font-family: $text_font;
+    h1 {
+        text-align: center;
+        color: $welcome_text_color;
+        font-family: Impact, serif;
+
+    }
+
+    main {
+        border: thin solid white;
+        width: 100vh;
+        height: 50vh;
+        margin: 0 auto;
+        word-wrap: break-word;
+    }
+
+    footer {
+        align-content: center;
+        position: fixed;
+        bottom: 1%;
+        width: 100%;
+        white-space: nowrap;
+        #input {
+            width: 83%;
+            background-color: $button_color;
+            
+            border: thin grey solid;
+            text-align: center;
+        }
+        #next {
+            width: 15%;
+        }
+    }
+}

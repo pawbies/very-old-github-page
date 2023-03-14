@@ -1,0 +1,12 @@
+{
+  "name": "special",
+  "version": "0.1.0",
+  "files": [
+    "special_bg.wasm",
+    "special.js",
+    "special.d.ts"
+  ],
+  "module": "special.js",
+  "types": "special.d.ts",
+  "sideEffects": false
+}

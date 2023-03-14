@@ -1,0 +1,1 @@
+document.getElementById("gay").onclick = function() { document.getElementById("body").innerHTML += "3{kLa1qbTfJh}"; let audio = new Audio("../../ding.mp3"); audio.play().then(); }

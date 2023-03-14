@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Age Check</title>
+    <link rel="stylesheet" href="../style/age_check/age_check_style.css">
+    <link rel="shortcut icon" href="../../static/pictures/favicon.png" type="image/x-icon">
+
+    <meta
+    http-equiv="Content-Security-Policy"
+    content="
+    script-src 'self' 'sha256-vvt4KWwuNr51XfE5m+hzeNEGhiOfZzG97ccfqGsPwvE=' https://dooklin.github.io"
+    >
+
+
+</head>
+<body id="main">
+    <h1>Sorry we need to check your age before you can proceed</h1>
+    <main>
+        <label for="age">When were you born</label>
+        <input type="date" name="age" id="age">
+        <button id="sub">Submit Age</button>
+        <p id="error"></p>
+    </main>
+    
+
+    <script src="../script/age_check.js"></script>
+</body>
+</html>

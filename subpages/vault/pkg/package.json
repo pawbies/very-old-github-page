@@ -1,0 +1,12 @@
+{
+  "name": "vault",
+  "version": "0.1.0",
+  "files": [
+    "vault_bg.wasm",
+    "vault.js",
+    "vault.d.ts"
+  ],
+  "module": "vault.js",
+  "types": "vault.d.ts",
+  "sideEffects": false
+}

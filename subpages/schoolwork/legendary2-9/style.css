@@ -1,0 +1,11 @@
+table {
+    border: thin solid black;
+}
+
+td, th {
+    border: thin solid black;
+}
+
+.red {
+    color: red;
+}

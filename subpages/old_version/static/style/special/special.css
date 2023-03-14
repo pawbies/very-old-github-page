@@ -1,0 +1,28 @@
+@font-face {
+    font-family: Gustatory;
+    src: url(GustatoryDelightRegular-rgX3L.ttf);
+}
+
+
+body {
+    background-image: url(../../pictures/background3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+}
+
+
+.quote {
+    font-family: Gustatory, serif;
+    text-align: center;
+    font-size: 1.5cm;
+}
+
+details {
+    left: 50%;
+    width: 50%;
+    position: relative;
+}

@@ -1,0 +1,17 @@
+$header_color: black;
+
+body {
+    background-image: url(../../pictures/background.jpg);
+    background-size: cover;
+
+    h1 {
+        color: $header_color;
+        text-align: center;
+    }
+
+    #hide {
+        background: transparent;
+        border: none !important;
+        color: transparent;
+    }
+}

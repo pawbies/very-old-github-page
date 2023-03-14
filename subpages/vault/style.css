@@ -1,0 +1,11 @@
+body {
+    background-image: url("pictures/vault.png");
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+#input {
+    position: absolute;
+    left: 45%;
+    top: 45%
+}
